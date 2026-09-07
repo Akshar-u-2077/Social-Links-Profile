@@ -1,0 +1,97 @@
+
+footer p
+{
+    color: white;
+    font-size: 6px;
+}
+body
+{
+    font-family: 'Inter', sans-serif;
+    background: hsl(0, 0%, 8%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.container
+{
+    background: hsl(0, 0%, 12%);
+    display: flex;
+    flex-direction: column;
+    color:hsl(0, 0%, 100%) ;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    max-width: 325px;
+    border-radius: 10px;
+    padding: 30px 25px;
+    gap:8px;
+}
+
+.container .intro
+{
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items:center;
+    justify-content: center;
+}
+.container img
+{
+    width: 80px;
+    border-radius: 50%;
+    align-self: center;
+    
+}
+.container p{
+    text-align: center;
+}
+.container .intro h2
+{
+    font-weight: 700;
+    margin-bottom: 8px;
+    text-align: center;
+}
+.container .intro .loc
+{
+    margin: 0;
+    color:hsl(75, 94%, 57%);
+    font-size: 14px;
+    font-weight: 600;
+}
+.container .links
+{
+    
+    display: flex;
+    flex-direction: column;
+    gap:12px;
+    width: 100%;
+       
+}
+
+.container .links a
+{
+    display: flex;
+    text-decoration: none;
+    padding: 12px 20px;
+    justify-content: center;
+    align-items: center;
+    background:hsl(0, 0%, 20%);
+    border-radius: 7px;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+}
+.container .links a:hover
+{
+    background:hsl(75, 94%, 57%);
+    color: black;
+}
+.container .links a:focus
+{
+    background:hsl(75, 94%, 57%);
+    color: black;
+}
