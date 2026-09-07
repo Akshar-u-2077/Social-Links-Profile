@@ -30,6 +30,6 @@ Create a responsive profile card that includes:
 - Using CSS custom properties to keep colors consistent.
 
 ## Author
-- **Frontend Mentor:** [@yourusername](https://www.frontendmentor.io/profile/Akshar-u-2077)
-- **GitHub:** [yourusername](https://github.com/akshar_u_2077)
+- **Frontend Mentor:** [Akshar-u-2077](https://www.frontendmentor.io/profile/Akshar-u-2077)
+- **GitHub:** [Akshar-u-2077](https://github.com/akshar_u_2077)
 
