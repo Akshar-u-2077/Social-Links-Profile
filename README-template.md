@@ -11,11 +11,11 @@ Create a responsive profile card that includes:
 - A list of social media links with hover/focus states
 
 ### Screenshot
-![Screenshot of the profile card](./screenshot.jpg)
+![Screenshot of the profile card](./image.png)
 
 ### Links
-- **Live site:** [View live site](https://your-live-site-url.com)
-- **Source code:** [GitHub repository](https://github.com/your-username/social-links-profile)
+- **Live site:** [View live site](https://akshar-u-2077.github.io/Social-Links-Profile/)
+- **Source code:** [GitHub repository](https://github.com/Akshar-u-2077/Social-Links-Profile.git)
 
 ## My process
 
@@ -30,6 +30,6 @@ Create a responsive profile card that includes:
 - Using CSS custom properties to keep colors consistent.
 
 ## Author
-- **Frontend Mentor:** [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Frontend Mentor:** [@yourusername](https://www.frontendmentor.io/profile/Akshar-u-2077)
+- **GitHub:** [yourusername](https://github.com/akshar_u_2077)
 
